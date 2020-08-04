@@ -95,7 +95,6 @@
           "contextDir": "${CONTEXT_DIR}"
         },
         "strategy": {
-c get p
           "type": "Source",
           "sourceStrategy": {
             "from": {
